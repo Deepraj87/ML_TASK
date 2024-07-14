@@ -28,7 +28,7 @@ Before you begin, ensure you have the following:
 **1. Clone my repository:**
 
 ```bash
-  git clone https://github.com/Deepraj87/ML_TASKS.git
+  git clone https://github.com/Deepraj87/ML_TASK.git
 
 ```
 **2.Install the required dependencies:**
