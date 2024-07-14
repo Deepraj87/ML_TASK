@@ -113,7 +113,9 @@ streamlit run app.py --server.port $PORT
 
 Click "Create Web Service". Render will start building your application. Once the build is complete, your Streamlit app will be live and accessible via the URL provided by Render.
 
+## 🌐 Demo
 
+- Click the link to explore the project:https://movie-recom-cktl.onrender.com
   
 
 ## 🤝 Contributing
