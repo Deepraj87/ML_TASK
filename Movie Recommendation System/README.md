@@ -116,7 +116,13 @@ Click "Create Web Service". Render will start building your application. Once th
 ## 🌐 Demo
 
 - Click the link to explore the project:https://movie-recom-cktl.onrender.com
-  
+
+
+  ![image](https://github.com/Deepraj87/ML_TASK/blob/main/Movie%20Recommendation%20System/Demo/Demo_3.png)
+
+
+
+
 
 ## 🤝 Contributing
 We welcome contributions! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
