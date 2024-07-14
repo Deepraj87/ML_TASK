@@ -31,7 +31,7 @@ pip
 **1. Clone the repository**
 
 ```bash
- git clone https://github.com/Deepraj87/ML_TASKS.git
+ git clone https://github.com/Deepraj87/ML_TASK.git
 ```
 **2. Install the dependencies**
 
@@ -58,7 +58,7 @@ This will start a local web server and open the Streamlit application in your br
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Deepraj87/ML_TASKS.git
+git remote add origin https://github.com/Deepraj87/ML_TASK.git
 git push -u origin main
 ```
 **2. Deploy on Streamlit Community Cloud**
@@ -81,7 +81,7 @@ If you haven't already, push your code to GitHub:
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Deepraj87/ML_TASKS.git
+git remote add origin https://github.com/Deepraj87/ML_TASK.git
 git push -u origin main
 ```
 
