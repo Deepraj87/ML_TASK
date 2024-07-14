@@ -75,7 +75,7 @@ Build a text classifier using the Naive Bayes algorithm for 20Newsgroup Dataset.
 
 ### 1. Clone the repository:
 ```bash
- git clone https://github.com/Deepraj87/ML_TASKS.git
+ git clone https://github.com/Deepraj87/ML_TASK.git
 ```
 
 ### 2.Navigate to the task folder:
